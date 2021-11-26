@@ -13,7 +13,7 @@
 #define NUM_RELAYS  5
 
 // Assign each GPIO to a relay
-int relayGPIOs[NUM_RELAYS] = {2, 26, 27, 25, 33};
+int relayGPIOs[NUM_RELAYS] = {5, 4, 0, 2};
 
 // Replace with your network credentials
 const char* ssid = "REPLACE_WITH_YOUR_SSID";
